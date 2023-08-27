@@ -36,7 +36,7 @@ $ yarn run test:e2e
 $ yarn run test:cov
 ```
 
-## Useful NextJS CLI commands
+## Useful NestJS CLI commands
 
 ```bash
 # add modules
